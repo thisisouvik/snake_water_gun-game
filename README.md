@@ -1,7 +1,8 @@
 # snake_water_gun-game
-🐍 Snake-Water-Gun Game 🎮
+<h1>🐍 Snake-Water-Gun Game 🎮</h1>
+<br>
 This is a basic Snake-Water-Gun game built using Python. It is a simple command-line game that randomly selects the computer's choice using the random.randint library and compares it with the player's input to determine the winner.
-
+<br>
 📌 About the Project
 This is my first GitHub repository and a small project to get started with Git & Github.
 
