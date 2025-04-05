@@ -27,7 +27,7 @@
   <li>Navigate to the project directory:</li>
   <pre><code>cd snake-water-gun-game</code></pre>
   <li>Run the Python script:</li>
-  <pre><code>python game.py</code></pre>
+  <pre><code> python game. py</code></pre>
   <li>Follow the on-screen instructions and enjoy the game! 🎉</li>
 </ol>
 
