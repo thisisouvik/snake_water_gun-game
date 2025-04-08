@@ -8,7 +8,7 @@
   <li>The game follows the traditional <b>Snake-Water-Gun</b> rules:</li>
   <ul>
     <li>🐍 <b>Snake</b> drinks <b>Water</b> → 🐍 wins</li>
-    <li>💧 <b>Water</b> drowns <b>Gun</b> → 💧 wins</li>
+    <li>💧 <b>Water</b> drowns <b>Gun</b> → 💧 wins</li> 
     <li>🔫 <b>Gun</b> kills <b>Snake</b> → 🔫 wins</li>
     <li>If both choose the same, it's a <b>tie</b>!</li>
   </ul>
